@@ -1,0 +1,25 @@
+[bootstrap]
+main_collection = /collections/main.collectionc
+
+[script]
+shared_state = 1
+
+[display]
+width = 960
+height = 640
+
+[project]
+title = ShaderTestProject
+
+[physics]
+debug = 0
+scale = 0.02
+gravity_y = -1000.0
+max_contacts = 1024
+
+[sprite]
+max_count = 1024
+
+[input]
+game_binding = /inputs/game.input_bindingc
+

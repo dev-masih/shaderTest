@@ -1,0 +1,9 @@
+images {
+  image: "/assets/raw/shaderPlaceholder.png"
+}
+images {
+  image: "/assets/raw/plank.png"
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
